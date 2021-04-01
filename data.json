@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://manny2becerra.github.io/random-quote-generator/",
+            "github_link": "https://github.com/Manny2becerra/random-quote-generator",
+            "image_urls": ["/static/images/quote-generator/quote-generator1.png", "/static/images/quote-generator/quote-generator2.png", "/static/images/quote-generator/quote-generator3.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Game Show",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://manny2becerra.github.io/oo_game-v2/",
+            "github_link": "https://github.com/Manny2becerra/oo_game-v2",
+            "image_urls": ["/public/images/gameShow/gameShow1.png", "/public/images/gameShow/gameShow2.png", "/public/images/gameShow/gameShow3.png", "/public/images/gameShow/gameShow4.png", "/public/images/gameShow/gameShow5.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Sign Up Form",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://manny2becerra.github.io/Interactive-Signup-Form/",
+            "github_link": "https://github.com/Manny2becerra/Interactive-Signup-Form",
+            "image_urls": ["/public/images/signup-form/signup-form1.png", "/public/images/signup-form/signup-form2.png", "/public/images/signup-form/signup-form3.png", "/public/images/signup-form/signup-form4.png", "/public/images/signup-form/signup-form5.png", "/public/images/signup-form/signup-form6.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Data pagination filter",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https://manny2becerra.github.io/data-pagination-and-filtering-v1/",
+            "github_link": "https://github.com/Manny2becerra/data-pagination-and-filtering-v1",
+            "image_urls": ["/static/images/data-filtering/data-filtering1.png", "/public/images/data-filtering/data-filtering2.png", "/public/images/data-filtering/data-filtering3.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Employee Directory using API",
+            "technologies": ["JavaScript", "HTML", "CSS", "Fetch API"],
+            "live_link": "https://manny2becerra.github.io/public-api-request-project/",
+            "github_link": "https://github.com/Manny2becerra/public-api-request-project",
+            "image_urls": ["/static/images/signup-form/signup-form1.png", "/public/images/signup-form/signup-form2.png", "/public/images/signup-form/signup-form3.png"]
+        }
+    ]
+}
