@@ -14,9 +14,10 @@ app.use('/static', express.static('public'));
 app.use(routes);
 
 // handles errors for no page found
-app.use((req, res, next) => {
+app.use('/error', (req, res, next) => {
     const err = new Error('Oh no! You searched for page that does not exist!');
     err.status = 404;
+    console.log(err.message);
    res.render('error', { err });
 });
 
