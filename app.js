@@ -21,4 +21,8 @@ app.use('/error', (req, res, next) => {
    res.render('error', { err });
 });
 
+app.use((req, res, next) => {
+    res.redirect('/error');
+});
+
 app.listen(3000, () => console.log('The server is running'));
