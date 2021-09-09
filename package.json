@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Manny2becerra/myProjectResume/issues"
   },
-  "homepage": "https://manny2becerra.github.io/myProjectResume/",
+  "homepage": "https://manny2becerra.github.io/myProjectResume",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
